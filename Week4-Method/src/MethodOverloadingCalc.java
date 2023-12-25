@@ -20,5 +20,4 @@ public class MethodOverloadingCalc {
 		calculate(2, 2.5);
 		calculate(4);
 	}
-
 }
